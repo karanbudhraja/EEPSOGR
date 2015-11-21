@@ -1,4 +1,4 @@
 EEPSOGR
 =======
 
-Exploration Enhanced Particle Swarm Optimization using Guided Re-Initialization (http://link.springer.com/chapter/10.1007%2F978-81-322-1038-2_34)
+Budhraja, Karan Kumar, et al. "Exploration enhanced particle swarm optimization using guided re-initialization." Proceedings of Seventh International Conference on Bio-Inspired Computing: Theories and Applications (BIC-TA 2012). Springer India, 2013.
